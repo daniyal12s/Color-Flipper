@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    /* margin-top: 70px;
+    margin-bottom: 70px; */
+
+}
+
+.para{
+    margin-top: 300px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    color: white;
+    background-color: gray;
+    display: inline-block;
+    width: 330px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+button{
+    font-size: 25px;
+    color: white;
+    background-color: gray;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+button:hover{
+    cursor: pointer;
+}
